@@ -118,11 +118,6 @@ Roadmap For Next Updates:
 
 ### Credits
 
-<a href="tübitak_logo">
-  <img align=left img src="https://www.tubitak.gov.tr/sites/default/files/tubitak_logo.png" 
-       alt="tübitak_logo" height="100" >
-</a>
-
 ---
 
 This work is supported by [TÜBİTAK](https://www.tubitak.gov.tr/) Project under grant number 120N803 which conducted by the İnovasyon Mühendislik.
